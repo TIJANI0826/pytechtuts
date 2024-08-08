@@ -1,5 +1,6 @@
 print("Hello world")
-# input("type your name: ")
+print("you did well")
+
 
 #Data Types
 # Number : interger, float, complex, Bool =True or False
