@@ -1,0 +1,1 @@
+# write a program that will calculate simple interest I = PRT/100
